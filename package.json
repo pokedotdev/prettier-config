@@ -1,0 +1,20 @@
+{
+	"name": "@pokedotdev/prettier-config",
+	"version": "0.0.0-dev",
+	"description": "Prettier config",
+	"repository": "pokedotdev/prettier-config",
+	"main": "index.js",
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"author": "pokedotdev",
+	"license": "MIT",
+	"prettier": "./index.js",
+	"publishConfig": {
+		"access": "public"
+	},
+	"devDependencies": {
+		"prettier": "^2.8.3"
+	}
+}
